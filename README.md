@@ -1,6 +1,6 @@
 # 4-BIT-RIPPLE-COUNTER
 
-# DATE : 16.12.24
+# DATE : 12.11.2024
 
 **AIM:**
 
